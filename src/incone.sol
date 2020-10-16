@@ -7,7 +7,7 @@ contract incone {
 	}
 
 	/// Adds one to a uint
-	function inc() public {
+	function increment() public {
 		value = value+1;
 	}
 

@@ -8,7 +8,7 @@
       "new",
       "initvalue",
       "get",
-      "inc",
+      "increment",
       "incone"
     ],
     "types": [
@@ -56,7 +56,7 @@
         "name": 5,
         "selector": "[\"0x6D\",\"0x9B\",\"0x6A\",\"0x6B\"]",
         "docs": [
-          "Constructor that initializes the `uint256` value to the given `init_value`.\n\n"
+          "Constructor that initializes the `uint256` value to the given `init_value`."
         ],
         "args": [
           {
@@ -76,7 +76,7 @@
         "name": 7,
         "selector": "[\"0x6D\",\"0x4C\",\"0xE6\",\"0x3C\"]",
         "docs": [
-          "Simply returns the current value of 'uint256'\n\n"
+          "Simply returns the current value of 'uint256'"
         ],
         "mutates": false,
         "args": [],
@@ -89,15 +89,14 @@
       },
       {
         "name": 8,
-        "selector": "[\"0x37\",\"0x13\",\"0x03\",\"0xC0\"]",
+        "selector": "[\"0xD0\",\"0x9D\",\"0xE0\",\"0x8A\"]",
         "docs": [
-          "Adds one to a uint\n\n"
+          "Adds one to a uint"
         ],
         "mutates": true,
         "args": [],
         "return_type": null
       }
-    ],
-    "events": []
+    ]
   }
 }
