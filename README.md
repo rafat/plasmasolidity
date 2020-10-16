@@ -1,6 +1,6 @@
 # plasmasolidity
 
-Very simple contract that accepts a uint256 number and increments it by 1 when function increment() is executed.
+Very simple contract that accepts a uint256 number at deployment, returns the integer value when get() is executed and increments it by 1 when function increment() is executed.
 
 Contract
 0x194031051db4b9749dd51591c6c8a2aadc5222d08bae73e6673f22fb828492e1
